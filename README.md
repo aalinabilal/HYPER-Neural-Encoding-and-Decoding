@@ -1,5 +1,4 @@
-# HYPER
- Hyperrealistic Neural Coding of Perception (Neural Encoding and Decoding)
+# HYPER (Hyperrealistic Neural Coding of Perception)
 
 Overview
 This project explores how the human brain represents perceived faces by building two complementary models:
