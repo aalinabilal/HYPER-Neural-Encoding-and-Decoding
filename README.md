@@ -6,7 +6,7 @@ This project explores how the human brain represents perceived faces by building
 Neural encoding (face → brain): Given a face image, predict the fMRI brain response it would evoke
 Neural decoding (brain → face): Given an fMRI brain response, reconstruct the face the participant was perceiving
 
-Both pipelines are grounded in the latent space of NVIDIA's Progressively Growing GAN (PGGAN) — a generative model trained to synthesize photorealistic faces. The dataset consists of (latent vector, fMRI response) pairs recorded while participants viewed GAN-generated faces in an MRI scanner.
+Both pipelines are grounded in the latent space of NVIDIA's Progressively Growing GAN (PGGAN), a generative model trained to synthesize photorealistic faces. The dataset consists of (latent vector, fMRI response) pairs recorded while participants viewed GAN-generated faces in an MRI scanner.
 
 
 Stack
